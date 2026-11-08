@@ -2,7 +2,7 @@ const data = {
     "url": "ai-cheating-kelley-iu",
     "slug": "AI in Kelley",
     "headline": "Academia is divided about AI. IU’s campus is no different",
-    "title": "Buildout Template",
+    "title": "AI in Kelley",
     "pub_date": "November 8, 2026",
     "bylines": {
         "By": {
