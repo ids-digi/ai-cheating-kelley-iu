@@ -236,9 +236,18 @@ header {
 }
 
 .headline-container {
-    top: 45%;
+    bottom: 5%;
     position: absolute;
 }
+
+@media (min-width: 992px) {
+    .headline-container {
+        bottom: 15%;
+        right: 10%;
+    }
+}
+
+/* TODO: add text posn for mobile viewport */
 
 .header-caption {
     padding-left: var(--sm);
