@@ -1,9 +1,9 @@
 const data = {
-    "url": "ai-cheating-kelley-iu",
-    "slug": "AI in Kelley",
+    "url": "indiana-university-kelley-artificial-intelligence",
+    "slug": "Artificial Intelligence at IU",
     "headline": "Academia is divided about AI. IU’s campus is no different",
-    "title": "AI in Kelley",
-    "pub_date": "November 8, 2026",
+    "title": "Artificial Intelligence at IU",
+    "pub_date": "November 9, 2026",
     "bylines": {
         "By": {
             "name": "Nadia Suben",
